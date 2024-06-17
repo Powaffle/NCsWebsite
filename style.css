@@ -1,0 +1,25 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+AU+TAS:wght@100..400&display=swap" rel="stylesheet">
+
+.playwrite-au-tas-<p> {
+  font-family: "Playwrite AU TAS", cursive;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+}
+
+h1 {
+  font-family: monospace;
+  color: white;
+}
+
+body {
+  background: cornflowerblue;
+  padding: 64px;
+}
+
+img {
+  width: 240px;
+  margin: 24px;
+}

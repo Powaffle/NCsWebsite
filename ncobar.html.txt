@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<title>Nathan Cobar</title>
+
+<h1>Hello!</h1>
+
+<p>My name is Nathan</p>
+
+<p>I like <u>Cubing</u> and <u>Tower Defense X</u></p>
+
+<p>This is testing for when I make the <u>Cubing Club</u> website (will link when done)</p>
+
+<p>This is one of my favorite <a href="https://www.youtube.com/watch?v=I1GLNwmu5Cs">songs</a></p>
+
+<img src="nataburger.jpg" alt="Natalie" width="240" height="300"> 
+
+<p>This is my dog, <b>Natalie Bear</b></p>
+
+<p>Click <a href="favorites.html"</a>this</a> link to see some of my favorite things</p>
+
+<audio src="robloxchill.mp3" autoplay loop controls> </audio>
+
+</html>
